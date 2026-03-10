@@ -1,5 +1,6 @@
 # bioinformatics_and_data_science
 
+this is from my class at unr
 
 Bioinformatics and Data Science Fall 2019    
 BIOL 792 - 1044   
