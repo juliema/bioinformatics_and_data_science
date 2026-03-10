@@ -1,7 +1,5 @@
 # bioinformatics_and_data_science
 
-this is from my class at unr
-
 Bioinformatics and Data Science Fall 2019    
 BIOL 792 - 1044   
 Prof: Julie Allen; SFB 206; jallen23@unr.edu   
